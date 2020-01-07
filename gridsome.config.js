@@ -15,7 +15,7 @@ module.exports = {
   },
 
   plugins: [
-        {
+    {
       use: '@gridsome/plugin-sitemap',
       options: {
         cacheTime: 600000, // default
@@ -30,9 +30,7 @@ module.exports = {
             priority: 0.7
           }
         }
-      }
-    },
-    {
+      },
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
