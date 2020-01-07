@@ -9,4 +9,4 @@ tags:
 cover_image: /images/uploads/sun-3713835_1920.jpg
 description: I am trying some image uploads.
 ---
-And I also write something down.
+And I also write something down. Ich kann hier auch etwas schreiben und es taucht dann im internet auf :D
