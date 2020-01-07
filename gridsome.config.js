@@ -7,6 +7,7 @@
 module.exports = {
   siteName: 'Money Making Methods 2020',
   siteDescription: 'Rock on 2020 with deam simple Money Making Methods',
+  siteJannik: 'huhu',
 
   templates: {
     Post: '/:title',
